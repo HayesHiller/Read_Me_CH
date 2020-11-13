@@ -1,14 +1,14 @@
 {
     "name": "static-site",
     "version": "1.0.0",
-    "description": "",
+    "description": "Command-line/Terminal that uses input from a user to generate a README for GitHub project.",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "Christian Hayes Hiller",
     "license": "ISC",
-    "dependencies": {
+    "dependencies": {  
       "inquirer": "^6.3.1"
     }
   }
